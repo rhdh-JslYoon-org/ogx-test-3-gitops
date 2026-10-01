@@ -13,5 +13,4 @@ spec:
     spec:
       containers:
         - name: streamlit-app
-          image: quay.io/rh-ee-lyoon/agentic-sample:latest
-
+          image: quay.io/rh-ee-lyoon-dh/ogx-test-3:d8d92f2e2a4fee18c4ae038310d11dea1cbdb85e@sha256:bab562acbcb009df3f1f47366e76900fd18d1509888e2600021a3f37eecbbb79
